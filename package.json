@@ -1,0 +1,14 @@
+{
+  "name": "nodemodxfilewatcher",
+  "version": "1.0.0",
+  "description": "A script to watch files and send http requests off to an endpoint when criteria met",
+  "main": "watch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.7.0"
+  }
+}
